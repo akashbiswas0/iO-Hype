@@ -75,3 +75,4 @@ export const SignalFeed = () => {
 // add prop types to config-panel 23115
 // update layout.tsx for responsive design 4625
 // add loading state to signal-feed 9662
+// improve signal-card display logic 11366
