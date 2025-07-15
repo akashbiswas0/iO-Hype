@@ -125,3 +125,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // Add comments and documentation
 // add analyzeTweet agent for tweet analysis 1178
 // add analyzeTweet agent for tweet analysis 5547
+// implement ioNetClient for agent communication 15162
