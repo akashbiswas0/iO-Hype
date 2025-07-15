@@ -76,3 +76,4 @@ export const SignalFeed = () => {
 // update layout.tsx for responsive design 4625
 // add loading state to signal-feed 9662
 // improve signal-card display logic 11366
+// update config-panel to support new options 5917
