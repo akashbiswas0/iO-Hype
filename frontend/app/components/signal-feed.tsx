@@ -67,3 +67,4 @@ export const SignalFeed = () => {
 // Add test cases for signal-feed
 // add signal-feed component 29712
 // implement config-panel for user settings 14784
+// fix bug in useWebSocket hook 25621
