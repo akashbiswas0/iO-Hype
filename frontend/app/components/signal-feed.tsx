@@ -77,3 +77,4 @@ export const SignalFeed = () => {
 // add loading state to signal-feed 9662
 // improve signal-card display logic 11366
 // update config-panel to support new options 5917
+// fix bug in execution-log formatting 9803
