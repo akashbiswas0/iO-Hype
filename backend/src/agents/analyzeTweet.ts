@@ -146,3 +146,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // update analyzeTweet to support hashtags 32343
 // improve tradeExecutor error messages 25218
 // add reconnect logic to wallet 28057
+// update reasoningAgent for better analysis 5699
