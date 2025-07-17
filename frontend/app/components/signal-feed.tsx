@@ -78,3 +78,4 @@ export const SignalFeed = () => {
 // improve signal-card display logic 11366
 // update config-panel to support new options 5917
 // fix bug in execution-log formatting 9803
+// add tests for useWebSocket hook 1786
