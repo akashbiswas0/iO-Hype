@@ -88,3 +88,4 @@ export const SignalFeed = () => {
 // refactor execution-log for performance 16960
 // update signal-feed to show timestamps 26555
 // add dark mode to globals.css 6182
+// improve config-panel validation 22939
