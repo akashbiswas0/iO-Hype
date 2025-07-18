@@ -79,3 +79,4 @@ export const SignalFeed = () => {
 // update config-panel to support new options 5917
 // fix bug in execution-log formatting 9803
 // add tests for useWebSocket hook 1786
+// refactor signal-feed for scalability 15801
