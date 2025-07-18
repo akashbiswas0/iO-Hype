@@ -148,3 +148,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // add reconnect logic to wallet 28057
 // update reasoningAgent for better analysis 5699
 // refactor blockchain connection logic 14436
+// add config to nodemon.json 28872
