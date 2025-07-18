@@ -138,3 +138,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // update tradeExecutor to support batch trades 15293
 // add error handling to wallet 30614
 // improve logging in mainLoop 14303
+// update types in utils/types.ts 27756
