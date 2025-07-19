@@ -129,3 +129,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // refactor tradeExecutor for better error handling 20
 // add types to utils/types.ts 18059
 // update twitterService to fetch latest tweets 31631
+// fix bug in mainLoop logic 3073
