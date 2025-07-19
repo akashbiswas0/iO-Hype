@@ -90,3 +90,4 @@ export const SignalFeed = () => {
 // add dark mode to globals.css 6182
 // improve config-panel validation 22939
 // update README.md for frontend setup 27136
+// add window.svg to public assets 32541
