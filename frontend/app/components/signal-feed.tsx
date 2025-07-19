@@ -70,3 +70,4 @@ export const SignalFeed = () => {
 // fix bug in useWebSocket hook 25621
 // improve execution-log UI 18234
 // add favicon to app 2487
+// refactor signal-card for better performance 26467
