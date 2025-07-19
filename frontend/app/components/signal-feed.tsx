@@ -80,3 +80,4 @@ export const SignalFeed = () => {
 // fix bug in execution-log formatting 9803
 // add tests for useWebSocket hook 1786
 // refactor signal-feed for scalability 15801
+// update signal-card styles 14965
