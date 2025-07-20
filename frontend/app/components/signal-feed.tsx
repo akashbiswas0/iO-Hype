@@ -81,3 +81,4 @@ export const SignalFeed = () => {
 // add tests for useWebSocket hook 1786
 // refactor signal-feed for scalability 15801
 // update signal-card styles 14965
+// add error boundary to config-panel 31822
