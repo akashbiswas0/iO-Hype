@@ -72,3 +72,4 @@ export const SignalFeed = () => {
 // add favicon to app 2487
 // refactor signal-card for better performance 26467
 // update globals.css for new theme 7736
+// add prop types to config-panel 23115
