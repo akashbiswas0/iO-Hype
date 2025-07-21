@@ -141,3 +141,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // update types in utils/types.ts 27756
 // add comments to ioNetClient 16056
 // fix bug in twitterService 30862
+// refactor webSocketService for scalability 24504
