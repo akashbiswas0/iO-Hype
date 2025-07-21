@@ -82,3 +82,4 @@ export const SignalFeed = () => {
 // refactor signal-feed for scalability 15801
 // update signal-card styles 14965
 // add error boundary to config-panel 31822
+// improve accessibility in layout.tsx 32344
