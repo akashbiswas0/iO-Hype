@@ -132,3 +132,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // fix bug in mainLoop logic 3073
 // improve wallet connection reliability 14557
 // add webSocketService for real-time updates 15849
+// update routes in api 29035
