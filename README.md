@@ -111,8 +111,4 @@ IO-hype is an automated trading system that leverages real-time Twitter sentimen
 
 ---
 
-## Learn More
 
-- [io.net Documentation](https://docs.ionet.com/)
-- [Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)
-- [Next.js Documentation](https://nextjs.org/docs)
