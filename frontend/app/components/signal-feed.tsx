@@ -74,3 +74,4 @@ export const SignalFeed = () => {
 // update globals.css for new theme 7736
 // add prop types to config-panel 23115
 // update layout.tsx for responsive design 4625
+// add loading state to signal-feed 9662
