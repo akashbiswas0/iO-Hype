@@ -143,3 +143,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // fix bug in twitterService 30862
 // refactor webSocketService for scalability 24504
 // add input validation to api routes 2707
+// update analyzeTweet to support hashtags 32343
