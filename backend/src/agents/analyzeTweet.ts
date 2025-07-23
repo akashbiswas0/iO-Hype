@@ -133,3 +133,4 @@ Output: {"token_symbol":"DOGE","sentiment_score":-0.9,"tweet_category":"Sell Sig
 // improve wallet connection reliability 14557
 // add webSocketService for real-time updates 15849
 // update routes in api 29035
+// add tests for reasoningAgent 21529
