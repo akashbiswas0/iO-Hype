@@ -84,3 +84,4 @@ export const SignalFeed = () => {
 // add error boundary to config-panel 31822
 // improve accessibility in layout.tsx 32344
 // update favicon 11720
+// add hover effect to signal-feed 22517
